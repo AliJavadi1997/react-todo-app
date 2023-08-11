@@ -1,0 +1,19 @@
+.container {
+  background-color: #44364b;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {
+  margin: 25px;
+}
+
+.form {
+  text-align: center;
+}
+
+.todo-list {
+  text-align: center;
+}

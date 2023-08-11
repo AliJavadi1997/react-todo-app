@@ -1,0 +1,32 @@
+.form {
+  display: flex;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+h1 {
+  color: #f4f2de;
+}
+
+.input {
+  background-color: #f4f2de;
+  border: none;
+  border-radius: 5px;
+  width: 300px;
+  height: 30px;
+  outline: none;
+  padding: 5px;
+}
+
+.button {
+  background-color: #e68e36;
+  border: none;
+  width: 50px;
+  border-radius: 5px;
+  color: #27374d;
+}
+
+.button:hover {
+  background-color: #dd517f;
+  transition: 0.2s ease-in;
+}

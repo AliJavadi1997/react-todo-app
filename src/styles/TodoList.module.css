@@ -1,0 +1,9 @@
+.container {
+  margin-top: 20px;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+}

@@ -1,0 +1,44 @@
+.notCompleted {
+  display: flex;
+  justify-content: space-between;
+  width: 360px;
+  background-color: #a589cb;
+  border-radius: 5px;
+  margin-top: 5px;
+  height: 30px;
+  padding: 5px;
+}
+
+.completed {
+  display: flex;
+  justify-content: space-between;
+  width: 360px;
+  background-color: #6d5b87;
+  border-radius: 5px;
+  margin-top: 5px;
+  height: 30px;
+  padding: 5px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+}
+
+.completeButton:hover {
+  background-color: #6d5b87;
+  border-radius: 5px;
+  transition: 0.2s ease-out;
+  padding: 2px;
+  cursor: pointer;
+}
+
+.removeButton:hover {
+  background-color: #6d5b87;
+  border-radius: 5px;
+  transition: 0.2s ease-out;
+  padding: 2px;
+  cursor: pointer;
+}
