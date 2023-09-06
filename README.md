@@ -29,7 +29,7 @@ Creating a robust and user-friendly todo application comes with its own set of c
 
     `npm start`
 
-4.  Open your browser and navigate to `http://localhost:3000` to use the application.
+4.  Open your browser and navigate to `http://localhost:5173` to use the application.
 
 ## Contributions
 
